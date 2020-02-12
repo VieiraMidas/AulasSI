@@ -1,0 +1,3 @@
+Estruturado ~ Possui todas as informações acerca do tema.
+Semi-Estruturado ~ Possui, apenas, fragmentos da informação, é necessário pesquisar sobre.
+Não Estruturado ~ Não possui nenhum tipo de informação acerca do tema.
